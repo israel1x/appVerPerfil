@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layoutObsMed">
+
+
+    <TextView
+        android:id="@+id/fechaObsMed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:text="29 Julio -" />
+
+
+    <TextView
+        android:id="@+id/medicoObsMed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="Dr. Jose Morales: "
+        android:layout_marginStart="82dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/detalleObsMed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:text="@string/parrafo_prueba"
+            android:layout_marginStart="36dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/fechaObsMed" />
+
+
+
+</RelativeLayout>

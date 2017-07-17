@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="title_activity_login">Iniciar Sesion</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_ver_cita">VerCita</string>
+    <string name="section_1">Nadia Pezantes</string>
+    <string name="hour_1">00:12:00</string>
+    <string name="section_2">Angel Pena</string>
+    <string name="hour_2">01:02:52</string>
+    <string name="section_3">Luz Piedrahita</string>
+    <string name="hour_3">00:26:09</string>
+    <string name="section_4">Andrés Cárdenas</string>
+    <string name="hour_4">00:23:09</string>
+    <string name="item_11">Nadia Pezantes</string>
+    <string name="item_12">22 años</string>
+    <string name="item_13">Sala 2</string>
+    <string name="item_21">Angel Peña</string>
+    <string name="item_22">25 años</string>
+    <string name="item_23">Sala 1</string>
+    <string name="item_31">Luz Piedrahita</string>
+    <string name="item_32">30 años</string>
+    <string name="item_33">Sala 1</string>
+    <string name="item_41">Andrés Cárdenas</string>
+    <string name="item_42">30 años</string>
+    <string name="item_43">Sala 1</string>
+
+
+
+    <string name="parrafo_prueba">
+        Lorem ipsum dolor sit amet,consectetur adipiscing elit,\n sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n
+        Ut enim ad minim veniam,\n quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+    </string>
+</resources>
